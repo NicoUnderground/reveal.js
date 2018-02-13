@@ -83,6 +83,9 @@ body {
   max-width: 95%;
   max-height: 95%; }
 
+/*custom weirdness*/
+
+
 .reveal strong,
 .reveal b {
   font-weight: bold; }
@@ -233,7 +236,9 @@ body {
 
 .reveal section img.plain {
   border: 0;
-  box-shadow: none; }
+  box-shadow: none;
+  max-width: 40%;
+  }
 
 .reveal a img {
   -webkit-transition: all .15s linear;
